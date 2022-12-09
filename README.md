@@ -10,5 +10,7 @@
 <h1>Technologies Used</h1>
 <h5>The following has been used in this project</h5>
 <li>Java Script</li>
-<li>React</li>
+<li>HTML</li>
 <li>Css</li>
+
+<h1>Support and Contact Details</h1>
