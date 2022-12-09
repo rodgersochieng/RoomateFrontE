@@ -16,3 +16,7 @@
 <h1>Support and Contact Details</h1>
 
 <h5>This app represents the first version. In this case, it is still work in progress. In case a user encounters issues or experiences a bug, kindly feel free to reach the developer through rodges.ochieng@student.moringaschool.com</h5>
+
+<h1>Licence<h1>
+<h5>Copyright (c) 2022 Rodgers Ochieng.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files , to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</h5>
