@@ -24,13 +24,14 @@ header a,
 header button {
   font-size: 1rem;
   display: inline-block;
-  background-color: #fff8e7;
+  background-color: #13105d;
   border: 1px solid salmon;
   margin: 1rem;
   padding: 1rem;
   text-decoration: none;
-  color: salmon;
+  color: darkorange;
   cursor: pointer;
+  border-radius: 20px;
 }
 
 main {
@@ -38,19 +39,23 @@ main {
 }
 
 form {
-  background-color: #fff8e7;
+  background-color: #13105d;
   border: 1px solid salmon;
   display: flex;
   flex-direction: column;
-  width: 400px;
+  width: 420px;
   margin: 0 auto;
   padding: 0 1rem 1rem;
+  color: darkorange;
 }
 
 form input {
-  margin: 0.25rem 0;
+  margin: 0.34rem 0;
 }
 
 form button[type="submit"] {
   width: 40%;
+  border-radius: 10%;
+  background-color: #13105d;
+  color: darkorange;
 }

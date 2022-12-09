@@ -9,6 +9,13 @@ function NavBar({ user, setUser }) {
       }
     });
   }
+  function handleCreate() {
+    fetch("/create", { method: "POST" }).then((r) => {
+      if (r.ok) {
+        setUser(null);
+      }
+    });
+  }
 
   return (
     <header>
@@ -17,7 +24,10 @@ function NavBar({ user, setUser }) {
       </div>
       <div>
         {user ? (
-          <button onClick={handleLogoutClick}>Logout</button>
+          <>
+            <button onClick={handleLogoutClick}>Logout</button>
+            <button onClick={handleCreate}>Account</button>
+          </>
         ) : (
           <>
             <Link to="/signup">Signup</Link>
