@@ -13,7 +13,7 @@
 <li>HTML</li>
 <li>Css</li>
 
-<h1>SetUp Requirements(incase you want it on your local machine)<h1>
+<h3>SetUp Requirements(incase you want it on your local machine)</h3>
 <li>Git (to clone the repository)</li>
 <h1>SetUp installation</h1>
 <li>Clone the repository</li>
