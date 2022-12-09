@@ -13,6 +13,13 @@
 <li>HTML</li>
 <li>Css</li>
 
+<h1>SetUp Requirements(incase you want it on your local machine)<h1>
+<li>Git (to clone the repository)</li>
+<h1>SetUp installation</h1>
+<li>Clone the repository</li>
+<li>bunle install(to install the dependencies)</li>
+<li>npm start --prefix client (to start server)</li>
+
 <h1>Support and Contact Details</h1>
 
 <h5>This app represents the first version. In this case, it is still work in progress. In case a user encounters issues or experiences a bug, kindly feel free to reach the developer through rodges.ochieng@student.moringaschool.com</h5>
