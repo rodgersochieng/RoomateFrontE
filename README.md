@@ -4,5 +4,6 @@
 <h5>Roomie is a website that allows students to find roomates where they can stay before finding their own houses or otherwise</h5>
 
 <h1> Setup Requirements</h1>
+<li>Git (to clone the repository)</li>
 <li>Web-browser</li>
-<li>a smartphone/desktop/laptop</li>
+<li>/desktop/laptop</li>
