@@ -20,7 +20,7 @@
 <li>bunle install(to install the dependencies)</li>
 <li>npm start --prefix client (to start server)</li>
 <h5>find the link for the database/backend below</h5>
-<a href="https://github.com/rodgersochieng/roomiebackend"></a>
+<a href="https://github.com/rodgersochieng/roomiebackend">link</a>
 
 <h1>Support and Contact Details</h1>
 
